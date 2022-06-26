@@ -2,8 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://khalidshabbir.github.io/client",
-  "proxy": "https://cuitimetable.herokuapp.com",
+  "proxy": "http://localhost:8002",
   "dependencies": {
     "@fontsource/montserrat": "^4.5.7",
     "@fontsource/raleway": "^4.5.5",
@@ -51,7 +50,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0",
     "react-router-dom": "^5.2.0"
   }
 }

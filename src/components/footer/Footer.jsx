@@ -11,12 +11,15 @@ const Footer = () => {
 
   /*========================================================*/
   const getdataaboutus = async () => {
-    const res = await fetch("/getdata/contacts", {
-      method: "GET",
-      headers: {
-        "Content-Type": "application/json",
-      },
-    });
+    const res = await fetch(
+      "https://cuitimetable.herokuapp.com/getdata/contacts",
+      {
+        method: "GET",
+        headers: {
+          "Content-Type": "application/json",
+        },
+      }
+    );
     const data = await res.json();
 
     if (res.status === 422 || !data) {

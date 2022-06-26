@@ -8,7 +8,7 @@ const Navbar = () => {
         <div className="container ">
           <div className="name">
             <NavLink className=" logo d-flex align-items-center" to="/">
-              <img src="./assets/images/logopng1231.png" alt="logo" />
+              <img src="./logo.png" alt="logo" />
               <div className="logoname ">
                 <h1>CUI TIMETABLE</h1>
                 <p>Comsats University Sahiwal</p>
