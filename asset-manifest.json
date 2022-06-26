@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/client/static/css/main.18282b5d.css",
+    "main.js": "/client/static/js/main.b5ef9519.js",
+    "static/media/hero.jpg": "/client/static/media/hero.4402f01433b0c33cc6a6.jpg",
+    "static/media/Raleway-Italic-VariableFont_wght.ttf": "/client/static/media/Raleway-Italic-VariableFont_wght.87701616ad47257e5b00.ttf",
+    "static/media/Raleway-VariableFont_wght.ttf": "/client/static/media/Raleway-VariableFont_wght.3fefe681f4c62116679b.ttf",
+    "static/media/Montserrat-Black.ttf": "/client/static/media/Montserrat-Black.46e8b3d6aad654578958.ttf",
+    "static/media/Montserrat-Regular.ttf": "/client/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Montserrat-Medium.ttf": "/client/static/media/Montserrat-Medium.e2d60bc49517598c0ce8.ttf",
+    "static/media/Montserrat-ExtraLight.ttf": "/client/static/media/Montserrat-ExtraLight.62a749ca2820713ebbf8.ttf",
+    "static/media/Montserrat-Thin.ttf": "/client/static/media/Montserrat-Thin.4a799b111f608dbf4f89.ttf",
+    "index.html": "/client/index.html",
+    "main.18282b5d.css.map": "/client/static/css/main.18282b5d.css.map",
+    "main.b5ef9519.js.map": "/client/static/js/main.b5ef9519.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18282b5d.css",
+    "static/js/main.b5ef9519.js"
+  ]
+}
